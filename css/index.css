@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    background: #300717;
+}
+
+.rectangular {
+    display: flex;
+    justify-content: flex-start;
+    background: #f28105;
+}
+
+.box {
+    padding: 0px 10px;
+}
