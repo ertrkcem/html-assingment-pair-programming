@@ -3,10 +3,20 @@
     background: #300717;
 }
 
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    width: 100%;
+}
+
 .rectangular {
     display: flex;
     justify-content: flex-start;
     background: #f28105;
+    width: 49%;
+    margin: 0.5% auto;
 }
 
 .box {
